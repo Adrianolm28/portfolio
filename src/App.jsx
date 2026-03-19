@@ -344,8 +344,8 @@ export default function App() {
             />
             <ProjCard
               url="https://jcspremiun.pe/"
-              name="JCS Premiu
-              type="Empresa - Ecommerce · Web"
+              name="JCS Premium"
+              type={"Empresa - Ecommerce - Web"}
               delay={160}
             />
             <ProjCard
