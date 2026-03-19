@@ -144,7 +144,7 @@ export default function App() {
             <h1 className="hero-name">
               Adriano<br />
               <span className="accent">Jhamir</span><br />
-              Tocas James
+              Tocas Jaimes
             </h1>
 
             <div className="hero-role-row">
@@ -176,7 +176,7 @@ export default function App() {
               <img
                 className="hero-photo"
                 src="https://keepcoding.io/wp-content/smush-webp/2025/04/fx34keqiew-1-1024x683.jpg.webp"
-                alt="Adriano Tocas James"
+                alt="Adriano Tocas Jaimes"
               />
             </div>
             <p className="hero-photo-label">Adriano Tocas · {new Date().getFullYear()}</p>
@@ -307,7 +307,7 @@ export default function App() {
             <div className="exp-card">
               <div className="exp-top">
                 <p className="exp-role">Frontend & Backend Developer</p>
-                <p className="exp-year">2024 — actual</p>
+                <p className="exp-year">2025 — actual</p>
               </div>
               <p className="exp-company">Siga S.A.C · San Miguel, Lima</p>
               <p className="exp-desc">
@@ -344,7 +344,7 @@ export default function App() {
             />
             <ProjCard
               url="https://jcspremiun.pe/"
-              name="JCS Premiun"
+              name="JCS Premiu
               type="Empresa - Ecommerce · Web"
               delay={160}
             />
@@ -373,7 +373,7 @@ export default function App() {
               <span className="edu-num">01</span>
               <div className="edu-sep" />
               <div>
-                <p className="edu-name">Ingeniería de Software</p>
+                <p className="edu-name">Ingeniería de Software - Universidad Tecnológica del Perú</p>
                 <p className="edu-detail">
                   En curso · Lima, Perú
                   <span>5to Ciclo</span>
@@ -419,16 +419,16 @@ export default function App() {
                     <span className="ci-arrow">↗</span>
                   </span>
                 </a>
-                <a className="contact-item" href="tel:+51970742235">
-                  <span className="ci-key">Teléfono</span>
+                <a className="contact-item" href="mailto:tocasadriano941@gmail.com">
+                  <span className="ci-key">Correo</span>
                   <span className="ci-val">
-                    +51 970 742 235
+                    tocasadriano941@gmail.com
                     <span className="ci-arrow">↗</span>
                   </span>
                 </a>
                 <div className="contact-item">
                   <span className="ci-key">Ubicación</span>
-                  <span className="ci-val">Rímac, Lima · Perú</span>
+                  <span className="ci-val">Lima · Perú</span>
                 </div>
                 <div className="contact-item">
                   <span className="ci-key">Nivel</span>
@@ -443,7 +443,7 @@ export default function App() {
 
       {/* ══════ FOOTER ══════ */}
       <footer className="footer">
-        <span className="footer-logo">Adriano Tocas James</span>
+        <span className="footer-logo">Adriano Tocas Jaimes</span>
         <span className="footer-copy">Portfolio · {new Date().getFullYear()} · Lima, Perú</span>
       </footer>
     </>
